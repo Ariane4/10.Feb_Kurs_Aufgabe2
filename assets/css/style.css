@@ -1,6 +1,6 @@
 body{
     height: 100vh;
-    background-image: url(/assets/img/bg-pic-travel.jpeg); 
+    background-image: url(../img/bg-pic-travel.jpeg); 
     background-size: cover;
     background-repeat: no-repeat;
 }
