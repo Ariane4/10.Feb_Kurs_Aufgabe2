@@ -45,6 +45,7 @@ p{
 footer{
     height: 4em;
     background-color: rgb(228, 182, 230);
+    border-top: 1px solid black;
 }
 footer a{
     display: block;
@@ -53,5 +54,4 @@ footer a{
     text-decoration: none;
     padding-top: 1em;
     color:black;
-    border-top: 1px solid black;
 }
