@@ -1,4 +1,8 @@
 body{
+    margin:0;
+    padding:0;
+}
+#home{
     height: 100vh;
     background-image: url(../img/bg-pic-travel.jpeg); 
     background-size: cover;
@@ -7,7 +11,46 @@ body{
 h1{
     text-align: center;
     width: 13%;
-    margin: 17% 42%;
+    margin: 0 auto;
+    padding-top: 3em;
     font-size: 5em;
     color: white
+}
+#about{
+    height: 100vh;
+    background-color: rgb(118, 172, 204);
+    color:whitesmoke;
+}
+h2{
+    font-size: 2em;
+    padding:  1em;
+    text-align: center;
+    margin:0;
+}
+p{
+    font-size: 1.5em;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+#about a{
+    display: block;
+    font-size: 1.5em;
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 2em;
+    color: whitesmoke;
+}
+footer{
+    height: 4em;
+    background-color: rgb(228, 182, 230);
+}
+footer a{
+    display: block;
+    font-size: 1.5em;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 1em;
+    color:black;
 }
